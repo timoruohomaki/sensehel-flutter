@@ -6,7 +6,7 @@ Experimentation on converting a react app to flutter app
 
 | Color | RGB | HEX |
 |----|----|----|
-| XXX | 0,223,112 | #00DF70 |
+| <span style="background-color: #00DF70;">#00DF70</span> | 0,223,112 | #00DF70 |
 
 ---
 ### Credits:
