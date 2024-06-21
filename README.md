@@ -24,7 +24,7 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 
 | Icon | Material name |
 |----|----|
-| (https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200) | home |
+| ![](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200) | home |
 
 ---
 ### Credits:
