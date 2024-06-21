@@ -24,7 +24,7 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 
 | Icon | Material name |
 |----|----|
-|  | home |
+| !(material icon home)[/material_icons/home.png] | home |
 |  | settings |
 |  | dataset |
 |  | face |
