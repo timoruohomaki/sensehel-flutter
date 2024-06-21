@@ -6,12 +6,12 @@
 ---
 ### Color System
 
-| Color | Material 900 | Material 800 | Material 700 | Material 600 | Material 500 | Material 400 | Material 300 | Material 200 | Material 100 |
-|----|----|----|----|----|----|----|----|----|----|
+| Color | Material 900 | Material 800 | Material 700 | Material 600 | Material 500 | Material 400 | Material 300 | Material 200 | Material 100 | Material 50|
+|----|----|----|----|----|----|----|----|----|----|----|
 | ![#00df70](https://placehold.co/15x20/00df70/00df70.png) `#f00df70` | 
 | ![#f5a623](https://placehold.co/15x20/f5a623/f5a623.png) `#f5a623` | 
 | ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | 
-| ![#325a75](https://placehold.co/15x20/325a75/325a75.png) `#325a75` | 
+| ![#325a75](https://placehold.co/15x20/325a75/325a75.png) `#325a75` | #113247 | #24475f | #325a75 | #416e8c | #4f7d94 | #6890af | #80a4c1 | #a0bfd8 | #bedaef | #def1ff |
 | ![#515253](https://placehold.co/15x20/515253/515253.png) `#515253` | 
 | ![#d8d8d8](https://placehold.co/15x20/d8d8d8/d8d8d8.png) `#d8d8d8` | 
 | ![#fbfbfb](https://placehold.co/15x20/fbfbfb/fbfbfb.png) `#fbfbfb` | 
