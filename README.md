@@ -4,9 +4,9 @@ Experimentation on converting a react app to flutter app
 ---
 ### Color System
 
-| Color | RGB | HEX |
+| Color | Material 900 | Material 800 |
 |----|----|----|
-| ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` | 0,223,112 | #00DF70 |
+| ![#00df70](https://placehold.co/15x20/00df70/00df70.png) `#f00df70` | 0,223,112 | #00DF70 |
 
 ---
 ### Credits:
