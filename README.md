@@ -25,12 +25,12 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 | Icon | Material name |
 |----|----|
 | ![material icon home](/material_icons/home.png) | home |
-|  | settings |
-|  | dataset |
-|  | face |
-|  | monitor_heart |
-|  | rate_review |
-|  | analytics |
+| ![material icon settings](/material_icons/settings.png) | settings |
+| ![material icon dataset](/material_icons/dataset.png) | dataset |
+| ![material icon face](/material_icons/face.png) | face |
+| ![material icon monitor heart](/material_icons/monitor_heart.png) | monitor_heart |
+| ![material icon rate review](/material_icons/rate_review.png) | rate_review |
+| ![material icon analytics](/material_icons/analytics.png) | analytics |
 
 
 ---
