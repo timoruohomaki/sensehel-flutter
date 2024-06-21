@@ -12,9 +12,9 @@
 | ![#f5a623](https://placehold.co/15x20/f5a623/f5a623.png) `#f5a623` | 
 | ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | 
 | ![#325a75](https://placehold.co/15x20/325a75/325a75.png) `#325a75` | 
-| ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | 
-| ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | 
-| ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | 
+| ![#515253](https://placehold.co/15x20/515253/515253.png) `#515253` | 
+| ![#d8d8d8](https://placehold.co/15x20/d8d8d8/d8d8d8.png) `#d8d8d8` | 
+| ![#fbfbfb](https://placehold.co/15x20/fbfbfb/fbfbfb.png) `#fbfbfb` | 
 
 ---
 ### Credits:
