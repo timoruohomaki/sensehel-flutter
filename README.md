@@ -19,6 +19,7 @@
 | ![#ffffff](https://placehold.co/15x20/ffffff/ffffff.png) `#ffffff` | Background |
 
 Created with [Material palette generator](https://m2.material.io/design/color/the-color-system.html)
+
 ---
 ### Credits:
 
