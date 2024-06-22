@@ -31,6 +31,8 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 | ![material icon monitor heart](/material_icons/monitor_heart.png) | monitor_heart | Sensor dashboard |
 | ![material icon rate review](/material_icons/rate_review.png) | rate_review | Open311 requests |
 | ![material icon analytics](/material_icons/analytics.png) | analytics | Service subscriptions |
+| ![material icon check_circle](/material_icons/check_circle.png) | check_circle | Success notifications |
+| ![material icon cancel](/material_icons/cancel.png) | cancel | Failure notifications |
 
 ### Versions
 
