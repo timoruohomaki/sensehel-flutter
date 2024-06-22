@@ -13,10 +13,10 @@
 | ![#df3a00](https://placehold.co/15x20/df3a00/df3a00.png) `#df3a00` | Error |
 | ![#325a75](https://placehold.co/15x20/325a75/325a75.png) `#325a75` | Primary | #113247 | #24475f | **#325a75** | #416e8c | #4f7d94 | #6890af | #80a4c1 | #a0bfd8 | #bedaef | #def1ff |
 | ![#754d32](https://placehold.co/15x20/754d32/754d32.png) `#754d32` | Complementary | #3d1e12 | #4d2b1c | #5b3823 | #6a442c | **#754d32** | #8c664e | #a2806b | #c1a392 | #dfc7b8 | #f9e8da |
-| ![#515253](https://placehold.co/15x20/515253/515253.png) `#515253` | Text |
-| ![#d8d8d8](https://placehold.co/15x20/d8d8d8/d8d8d8.png) `#d8d8d8` | TextInactive |
+| ![#515253](https://placehold.co/15x20/515253/515253.png) `#515253` | OnBackground |
+| ![#d8d8d8](https://placehold.co/15x20/d8d8d8/d8d8d8.png) `#d8d8d8` | Inactive |
 | ![#fbfbfb](https://placehold.co/15x20/fbfbfb/fbfbfb.png) `#fbfbfb` | Surface |
-| ![#ffffff](https://placehold.co/15x20/ffffff/ffffff.png) `#ffffff` | Background |
+| ![#ffffff](https://placehold.co/15x20/ffffff/ffffff.png) `#ffffff` | Background, OnPrimary, OnSecondary |
 
 Created with [Material palette generator](https://m2.material.io/design/color/the-color-system.html)
 
