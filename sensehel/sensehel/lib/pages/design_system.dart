@@ -34,6 +34,22 @@ MaterialColor senseComplementaryBrown = const MaterialColor(
   },
 );
 
+MaterialColor senseDarkOrange = const MaterialColor(
+  0xFFf5a623,
+  <int, Color>{
+    50: Color(0xFFfffce7),
+    100: Color(0xFFfef8c3),
+    200: Color(0xFFfdf39b),
+    300: Color(0xFFfcee74),
+    400: Color(0xFFfae954),
+    500: Color(0xFFf8e435),
+    600: Color(0xFFf9d433),
+    700: Color(0xFFf7bc2b),
+    800: Color(0xFFf5a623),
+    900: Color(0xFFf17c15),
+  },
+);
+
 MaterialColor senseOnBackground = const MaterialColor(
   0xFF515253,
   <int, Color>{
@@ -49,8 +65,6 @@ MaterialColor senseOnBackground = const MaterialColor(
     900: Color(0xFF2f2f30),
   },
 );
-
-// TODO: senseOrange
 
 MaterialColor senseSuccess = const MaterialColor(
   0xFF00df70,
