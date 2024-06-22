@@ -36,5 +36,5 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 ---
 ### Credits:
 
-- Icons: [Free Core Solid](https://www.streamlinehq.com/icons/core-solid-free) by Streamline (licensed as Creative Commons 4.0)
+- Icons: [Google Fonts](https://github.com/google/material-design-icons)
 - Original project: https://github.com/VekotinVerstas/SenseHel 
