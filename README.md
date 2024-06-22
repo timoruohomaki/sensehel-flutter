@@ -32,6 +32,10 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 | ![material icon rate review](/material_icons/rate_review.png) | rate_review | Open311 requests |
 | ![material icon analytics](/material_icons/analytics.png) | analytics | Service subscriptions |
 
+### Versions
+
+Java 21.0.3
+Gradle 8.5-all
 
 ---
 ### Credits:
