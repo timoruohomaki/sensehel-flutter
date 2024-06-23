@@ -1,6 +1,6 @@
 # sensehel on flutter
 - Experimentation on converting a react app to flutter
-- Experimenting of implementing design system as a separate dart file (sensehel/lib/design_system.dart)
+- Experimenting of implementing [design system as a dart file](https://github.com/timoruohomaki/sensehel-flutter/blob/main/sensehel/sensehel/lib/pages/design_system.dart)
 - Original UX provided by Gofore translated into Material system
 - Using material icons instead of original ones
 
