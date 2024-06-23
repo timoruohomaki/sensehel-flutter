@@ -37,8 +37,10 @@ Created with [Material palette generator](https://m2.material.io/design/color/th
 
 ### Versions
 
-Java 21.0.3
-Gradle 8.5-all
+- Flutter 3.22.2
+- Android Studio 2024.1
+- Java 21.0.3
+- Gradle 8.5-all
 
 ---
 ### Credits:
