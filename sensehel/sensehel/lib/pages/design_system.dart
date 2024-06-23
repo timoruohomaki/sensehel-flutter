@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// color swatches created with Material palette generator
+// color swatches created with Material palette generator of the defined scheme
 
 MaterialColor sensePrimaryBlue = const MaterialColor(
   0xFF325a75,
