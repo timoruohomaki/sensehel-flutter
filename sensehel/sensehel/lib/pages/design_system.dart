@@ -1,4 +1,20 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+TextTheme senseTextTheme = TextTheme(
+  headlineLarge: GoogleFonts.schibstedGrotesk(fontSize: 24,fontWeight: FontWeight.normal),
+  titleLarge: GoogleFonts.schibstedGrotesk(fontSize: 12,fontWeight: FontWeight.normal),
+  headlineMedium: GoogleFonts.schibstedGrotesk(fontSize: 14,fontWeight: FontWeight.normal),
+  headlineSmall: GoogleFonts.schibstedGrotesk(fontSize: 14,fontWeight: FontWeight.normal),
+);
+
+ThemeData senseTheme = ThemeData(
+  useMaterial3: true,
+  colorScheme: ColorScheme.fromSeed(
+    seedColor: sensePrimaryBlue,
+    ),
+  textTheme: senseTextTheme,
+  );
 
 // color swatches created with Material palette generator of the defined scheme
 

@@ -1,53 +1,52 @@
 import 'package:flutter/material.dart';
-import 'package:sensehel/pages/design_system.dart';
 
 class HomePage extends StatelessWidget {
-  HomePage({super.key});
+  const HomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
     
     return Scaffold(
-      appBar: AppBar(title: const Text("Home Page")),
+      appBar: AppBar(title: Text("Home Page".toUpperCase())),
         drawer: Drawer(
-          backgroundColor: Colors.sensePrimaryBlue[500],
+          backgroundColor: Colors.blueAccent[800],
           child: Column(
             children: [
-              DrawerHeader(
+              const DrawerHeader(
                 child: Icon(
                   Icons.home,
                   size: 48,
                   ),
                 ),
               ListTile(
-                leading: Icon(Icons.face),
-                title: Text("HOME"),
+                leading: const Icon(Icons.home),
+                title: const Text("HOME"),
                 onTap: () {
                   // go to home page
                   Navigator.pushNamed(context, '/home');
                   },
                 ),
               ListTile(
-                leading: Icon(Icons.face),
-                title: Text("MY PROFILE"),
+                leading: const Icon(Icons.face),
+                title: const Text("MY PROFILE"),
                 onTap: () {
                   // go to home page
-                  Navigator.pushNamed(context, '/home');
+                  Navigator.pushNamed(context, '/profile');
                   },
                 ),
-                ListTile(
+                const ListTile(
                   leading: Icon(Icons.monitor_heart),
                   title: Text("MY DATA"),
                 ),
                 ListTile(
-                  leading: Icon(Icons.analytics),
-                  title: Text("SUBSCRIPTIONS"), 
+                  leading: const Icon(Icons.analytics),
+                  title: const Text("SUBSCRIPTIONS"), 
                   onTap: () {
                   // go to home page
                     Navigator.pushNamed(context, '/subscriptions');
                   },
                 ),
-                ListTile(
+                const ListTile(
                   leading: Icon(Icons.rate_review),
                   title: Text("REPORT ISSUE"), 
                 ),
